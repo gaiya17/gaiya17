@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gayantha Nirmala 👋 
 
-<!--
-**gaiya17/gaiya17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Undergraduate | Full-Stack Developer | Freelancer
 
-Here are some ideas to get you started:
+I am a passionate Software Engineering student at the **University of Kelaniya** with a focus on building scalable web systems, AI-driven applications, and high-performance backend architectures. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm working on:
+- 🔭 **EWAY LMS:** Building a scalable Learning Management System using React & Node.js.
+- 🤖 **CricGuide:** Developing an AI-powered cricket coaching assistant.
+- 💬 **RediTalk:** Crafting high-availability distributed messaging systems.
+
+### 🛠️ My Tech Stack:
+- **Languages:** Java, C++, Python, JavaScript
+- **Web & Backend:** React.js, Node.js, Express.js, RESTful APIs
+- **Mobile:** Flutter, Firebase
+- **DevOps & Tools:** Docker, Git, GitHub
+- **Databases:** MongoDB, MySQL, PostgreSQL(Superbase)
+
+### 📫 Connect with me:
+- **LinkedIn:** [Gayantha Nirmala]([https://www.linkedin.com/in/gayantha-nirmala/](https://www.linkedin.com/in/gayantha-nirmala-33aa10314/))
+- **Email:** nirmalgayantha55@gmail.com
+- **Phone:** 0715233845
